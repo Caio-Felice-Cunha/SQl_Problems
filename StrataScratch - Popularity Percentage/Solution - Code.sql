@@ -1,3 +1,4 @@
+## Problem: https://github.com/Caio-Felice-Cunha/SQl_Problems/blob/main/StrataScratch%20-%20Popularity%20Percentage/Problem.md
 -- My Solution:
 
 WITH PairsUniqueCTE AS (
