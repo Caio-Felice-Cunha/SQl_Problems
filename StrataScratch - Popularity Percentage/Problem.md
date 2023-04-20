@@ -14,3 +14,5 @@ The 'user1' and 'user2' column are pairs of friends.<br>
 * To calculate the total number of friends per user, create one column that contains all users and a second column that contains all their friends. You can accomplish this by user1, user2 UNION user2, user1.
 * JOIN the two subqueries together so that you can calculate the percentage of friends over total users in the platform. You’ll need to JOIN using a 1=1 relation as the key. The resulting table will be a list of users, their friends, and total number of users on the platform.
 * Lastly, implement the percentage popularity formula by counting the number of friends per user and dividing by the total number of users on the platform.
+
+# [My Solution](https://github.com/Caio-Felice-Cunha/SQl_Problems/blob/main/StrataScratch%20-%20Popularity%20Percentage/Solution%20-%20Code.sql)
