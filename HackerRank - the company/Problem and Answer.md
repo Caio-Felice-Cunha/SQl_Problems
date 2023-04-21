@@ -1,4 +1,4 @@
-# Problem
+# Problem: The Company
 link: https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true<br>
 Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy:<br>
 ![image](https://user-images.githubusercontent.com/111542025/233720314-59b53ab3-ccdf-47b6-acf5-7c67c92b4b8a.png)<br>
