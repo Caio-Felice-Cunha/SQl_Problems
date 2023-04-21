@@ -1,4 +1,5 @@
 # Problem
+link: https://www.hackerrank.com/challenges/the-company/problem?isFullScreen=true<br>
 Amber's conglomerate corporation just acquired some new companies. Each of the companies follows this hierarchy:<br>
 ![image](https://user-images.githubusercontent.com/111542025/233720314-59b53ab3-ccdf-47b6-acf5-7c67c92b4b8a.png)<br>
 Given the table schemas below, write a query to print the company_code, founder name, total number of lead managers, total number of senior managers, total number of managers, and total number of employees. Order your output by ascending company_code.<br>
