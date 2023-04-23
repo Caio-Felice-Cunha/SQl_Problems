@@ -1,4 +1,4 @@
-# SQl_Problems
+# SQl Problems
 SQL solutions for all sort of problems
 
 This repository contains several SQL solutions for different types of problems.
