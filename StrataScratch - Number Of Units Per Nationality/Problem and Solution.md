@@ -1,6 +1,7 @@
 # Problem: Number Of Units Per Nationality
 Airbnb | Medium | ID 10156<br>
 Data Engineer | Data Scientist | BI Analyst | Data Analyst<br>
+Link: https://platform.stratascratch.com/coding/10156-number-of-units-per-nationality?code_type=3 <br>
 
 Find the number of apartments per nationality that are owned by people under 30 years old.<br>
 Output the nationality along with the number of apartments.<br>
